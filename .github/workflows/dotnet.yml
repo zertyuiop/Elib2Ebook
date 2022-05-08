@@ -26,4 +26,4 @@ jobs:
     - uses: actions/upload-artifact@v3
       with:
         name: Elib2Ebook
-        path: /home/runner/work/Elib2Ebook/
+        path: D:/a/Elib2Ebook/Elib2Ebook/Elib2Ebook/bin/Debug/net6.0/
